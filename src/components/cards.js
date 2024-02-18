@@ -1,6 +1,3 @@
-/*********************************
-*  Входные данные для задачи #1  *
-*********************************/
 
 const cards = [{
     img: "https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/filter/img/mon.jpg",
